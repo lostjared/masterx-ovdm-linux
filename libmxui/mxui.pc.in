@@ -1,0 +1,11 @@
+prefix=@prefix@
+exec_prefix=@exec_prefix@
+libdir=@libdir@
+includedir=@includedir@/mx/mxui
+
+Name: mx
+Description: MX User Interface Library
+Requires: 
+Version: 0.1
+Libs: -L${libdir} -lmxui -lmxl -lmasc
+Cflags: -I${includedir}

@@ -1,0 +1,25 @@
+tag "skin"
+{
+background = "windowbg.png"
+titlebar = "titlebar.png"
+bar = "bar.png"
+}
+
+
+tag "barmenu"
+{
+min_x1 = "0"
+min_y1 = "0"
+min_x2 = "20"
+min_y2 = "19"
+
+max_x1 = "30"
+max_y1 = "0"
+max_x2 = "58"
+max_y2 = "19"
+
+close_x1 = "60"
+close_y1 = "0"
+close_x2 = "80"
+close_y2 = "19"
+}

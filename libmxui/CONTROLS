@@ -1,0 +1,19 @@
+
+Controls README:
+
+Controls:
+Shift + Escape ( Quick Quit )
+ALT  + CTRL + UP ( Restore all Windows )
+ALT + CTRL+ DOWN [ (minimize all Windows)
+SHIFT + LEFT ( shift left one dimension)
+SHIFT + RIGHT ( shift right  one dimension
+
+argument switches:
+
+px is for pixels wide
+
+--width=px
+--height=px
+
+UserName: Jared
+Password: masterx

@@ -1,0 +1,9 @@
+#!/bin/sh
+echo "starting up MasterX"
+FULLPATH=`echo $0`
+FULLP=`python -c "t='$FULLPATH'[:-15]; print t"`
+WIDTH=`$FULLP/wh-tool w`
+HEIGHT=`$FULLP/wh-tool h`
+PYTHONPATH=$FULLP/scripts $FULLP/masterx --width=$WIDTH --height=$HEIGHT --fullscreen=yes
+echo "Completed..."
+

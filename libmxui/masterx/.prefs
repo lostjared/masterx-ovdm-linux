@@ -1,0 +1,9 @@
+tag "prefs"
+{
+
+menu = "0"
+online = "1"
+python = "1"
+trans = "0"
+
+}

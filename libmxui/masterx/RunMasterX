@@ -1,0 +1,11 @@
+#!/bin/sh
+
+echo "starting up MasterX"
+
+str=`pwd`/scripts
+
+LD_LIBRARY_PATH=/usr/local/lib PYTHONPATH=$str `pwd`/masterx $@
+
+echo "Completed running MasterX"
+
+

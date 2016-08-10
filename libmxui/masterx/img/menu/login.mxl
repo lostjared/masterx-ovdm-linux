@@ -1,0 +1,44 @@
+
+
+
+tag "File" 
+{
+"Capture Screen" = "2116"
+Quit = "1"
+}
+
+
+tag "Options"
+{
+Fullscreen = "2"
+Windowed = "3"
+"Preferences" = "20"
+}
+
+
+tag "User"
+{
+
+"Log Out"  = "4"
+"Change User/PW" = "5"
+
+}
+
+tag "Dimensions"
+{
+
+"Open DimBrowser" = "257"
+Forward   = "21"
+Backward = "22"
+" 1 - Home" = "57"
+" 2 - Console" = "80"
+
+}
+
+
+tag "Help"
+{
+
+About = "6"
+
+}

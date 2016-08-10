@@ -1,0 +1,13 @@
+--- configure.in	2009-01-07 09:17:39.000000000 -0800
++++ configure.in.1.35	2009-01-07 09:18:19.000000000 -0800
+@@ -150,8 +150,8 @@
+ case "${target}" in
+ 
+ *darwin*|*apple*)
+-BOOST_PATH="-I/usr/local/include/boost-1_37"
+-BOOST_LIB="/usr/local/lib/libboost_thread-xgcc40-mt-1_37.a /usr/local/lib/libboost_python-xgcc40-mt-1_37.a"
++BOOST_PATH="-I/usr/local/include/boost-1_35"
++BOOST_LIB="/usr/local/lib/libboost_thread-xgcc40-mt-1_35.a /usr/local/lib/libboost_python-xgcc40-mt-1_35.a"
+ ;;
+ *linux*)
+ BOOST_PATH=""
