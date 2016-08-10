@@ -7,8 +7,8 @@ a custom python shell and API for manipulating the environment.
 
 To compile for Linux first you need:
 
-
-SDL, Boost Python, Python 2.7 
+libtool, autotools (autoconf, automake etc.)
+gcc, g++, libstdc++, SDL, Boost Python, Python 2.7 
 
 
 and compile the following libs from my github page: http://github.com/lostjared
