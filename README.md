@@ -25,6 +25,11 @@ I was not as good at using Autoconf/Automake so the scripts are not as good as t
 
 Just sharing this with you for fun.
 
+Oh the username password for the login is:
+
+Username: Jared
+Password: masterx
+
 Thanks,
 	Jared  
 
