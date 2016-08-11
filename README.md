@@ -14,6 +14,9 @@ To compile for Linux first you need:
 libtool, autotools (autoconf, automake etc.)
 gcc, g++, libstdc++, SDL, Boost Python, Python 2.7 
 
+If you are on Debian use:
+
+sudo apt-get install libsdl1.2-dev libsdl-stretch-dev autoconf automake libtool libboost-python-dev python2.7 gcc g++ libboost-all-dev
 
 and compile the following libs from my github page: http://github.com/lostjared
 and install them to /usr/local
