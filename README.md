@@ -1,5 +1,9 @@
 # masterx-ovdm-linux
 
+
+README: 
+http://lostsidedead.com/blog/?index=80
+
 This was the site project for lostsidedead.com from 2008. It was written
 to try and create a GUI environment for Python. It uses Boost Python and has
 a custom python shell and API for manipulating the environment. 
