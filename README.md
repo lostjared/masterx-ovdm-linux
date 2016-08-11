@@ -1,5 +1,7 @@
 # masterx-ovdm-linux
 
+![ScreenShot](https://github.com/lostjared/masterx-ovdm-linux/blob/master/screenshot.jpg?raw=true "shell")
+
 
 README: 
 http://lostsidedead.com/blog/?index=80
