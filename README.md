@@ -1,4 +1,4 @@
-# masterx-ovdm-linux
+5# masterx-ovdm-linux
 
 ![ScreenShot](https://github.com/lostjared/masterx-ovdm-linux/blob/master/screenshot2.jpg?raw=true "screenshot")
 
@@ -30,7 +30,7 @@ For those interested, the login credentials are:
 
 Username: Jared
 
-Password: master
+Password: masterx
 
 
 
