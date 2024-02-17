@@ -5,47 +5,28 @@
 ![ScreenShot](https://github.com/lostjared/masterx-ovdm-linux/blob/master/screenshot.jpg?raw=true "shell")
 
 
-README: 
-http://lostsidedead.com/blog/?index=80
+This project was developed for lostsidedead.com in 2008, aiming to create a graphical user interface environment for Python. It incorporates Boost Python, featuring a custom Python shell and an API for environment manipulation.
 
-Video Tutorial on How to Compile this project: https://youtu.be/lxiuW2C8fXw
+For Linux compilation, the prerequisites are:
 
-This was the site project for lostsidedead.com from 2008. It was written
-to try and create a GUI environment for Python. It uses Boost Python and has
-a custom python shell and API for manipulating the environment. 
-
-
-To compile for Linux first you need:
-
-libtool, autotools (autoconf, automake etc.)
-gcc, g++, libstdc++, SDL, Boost Python, Python 2.7 
-
-If you are on Debian use:
-
-sudo apt-get install libsdl1.2-dev libsdl-stretch-dev autoconf automake libtool libboost-python-dev python2.7 gcc g++ libboost-all-dev git libjpeg8-dev
-
-and compile the following libs from my github page: http://github.com/lostjared
-and install them to /usr/local
+Development tools like libtool, autotools (including autoconf, automake, etc.), gcc, g++, libstdc++
+Libraries such as SDL, Boost Python, and Python 2.7
+Debian users can prepare their system with the following command:
 
 
-libmx 
+	sudo apt-get install libsdl1.2-dev libsdl-stretch-dev autoconf automake libtool libboost-python-dev python2.7 gcc g++ libboost-all-dev git libjpeg8-dev
+
+Additionally, compile and install the following libraries from my GitHub page: http://github.com/lostjared to /usr/local:
+libmx
 libmasc
 mxl
 
-
-This was a learning experience and I had fun writing this program.
-I was not as good at using Autoconf/Automake so the scripts are not as good as they could be
-
-Just sharing this with you for fun.
-
-Oh the user name / password for the login is:
+This project was both a learning journey and a source of enjoyment. My skills with Autoconf/Automake were still developing at the time, so the scripts might not be as refined as possible.
+I'm sharing this for entertainment and to showcase what I've worked on.
+For those interested, the login credentials are:
 
 Username: Jared
+Password: master
 
-Password: masterx
-
-
-Thanks,
-	Jared  
 
 
